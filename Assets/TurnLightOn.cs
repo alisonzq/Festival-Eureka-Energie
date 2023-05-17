@@ -21,12 +21,12 @@ public class TurnLightOn : MonoBehaviour
         {
             Debug.Log("There is electricity!");
             numPushed++;
-            //Debug.Log(numPushed);
             if (numPushed % 2 != 0)
             {
+                animator.SetTrigger("pushed");
+
                 //Écrit le code en dessous de cette ligne / Write code down below
-                animator.SetTrigger("pushed"); //soit ca
-                spotlight.SetActive(true); //ou ca
+                
             }
             else
             {
