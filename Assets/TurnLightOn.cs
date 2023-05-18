@@ -26,7 +26,7 @@ public class TurnLightOn : MonoBehaviour
                 animator.SetTrigger("pushed");
 
                 //Écrit le code en dessous de cette ligne / Write code down below
-                
+
             }
             else
             {
