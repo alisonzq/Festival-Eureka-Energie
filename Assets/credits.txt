@@ -1,5 +1,5 @@
 Modélisation 
 
-Éolienne : François-Xavier Cardin
+Éoliennes : François-Xavier Cardin
 Bunker : Jas-Min Faggiolo
-Robot, terrains : Alison
+Robot, terrains & lampadaires : Alison
